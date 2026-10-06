@@ -1,3 +1,0 @@
-I am entering this text as part of my first repo
-I hope i am doing this correctly
-I wonder what this will look like when i am finished
